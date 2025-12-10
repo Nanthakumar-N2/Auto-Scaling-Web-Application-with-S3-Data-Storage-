@@ -50,7 +50,7 @@ auto-scaling-webapp-s3/
 └─ README.md
 ```
 
-## Next steps I can help with
+## Next steps 
 - Add a production-ready systemd unit or Supervisor config
 - Provide a full Terraform implementation (security groups, ALB, ASG, IAM)
 - Dockerize the app and provide ECS/Fargate or EKS deployment
